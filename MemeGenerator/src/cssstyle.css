@@ -1,0 +1,17 @@
+.meme{
+    position: absolute;
+     left: 42px;
+    color:white;
+}
+.top
+{
+    position: absolute;
+    top: 2px;
+    left: 150px;
+}
+.bottom{
+    position:relative;
+    bottom:90px;
+    left: 150px;
+    
+}
